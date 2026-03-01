@@ -10,7 +10,6 @@ wheels/
 .venv
 
 *.gguf
-models/
 MDS/
 *.md
 .vscode/
